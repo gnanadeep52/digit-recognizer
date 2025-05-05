@@ -22,9 +22,17 @@ A simple desktop application that recognizes handwritten digits using a Convolut
 
 ---
 
-## 📦 Requirements
+## 🚀 How to Run
 
 Install required libraries with:
 
 ```bash
 pip install -r requirements.txt
+
+```bash
+python train_model.py
+
+```bash
+python digit_gui_app.py
+
+
